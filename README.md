@@ -8,7 +8,7 @@ A developer like to learn new things and apply them to benefit the society
 
 * 🌍  I'm based in Saudi Arabia
 * ✉️  You can contact me at [ali.y.alsaihati@gmail.com](mailto:ali.y.alsaihati@gmail.com)
-* 🧠  I'm learning HTML, CSS, Java Script
+* 🧠  I'm learning Java Script
 
 ### Skills
 
