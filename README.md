@@ -23,4 +23,4 @@ A developer like to learn new things and apply them to benefit the society
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/Ali Alsaihati" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/ali-alsaihati-7723941ba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
