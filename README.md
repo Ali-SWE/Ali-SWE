@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineering Student.
 -----------------------------
 
-A developer like to learn new things and apply them to benefit the society
+A developer has a passion to learn new technical skills and apply them to benefit the society
 
 * 🌍  I'm based in Saudi Arabia
 * ✉️  You can contact me at [ali.y.alsaihati@gmail.com](mailto:ali.y.alsaihati@gmail.com)
