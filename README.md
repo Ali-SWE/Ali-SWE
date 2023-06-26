@@ -6,9 +6,10 @@ Software Engineering Student.
 
 A developer has a passion to learn new technical skills and apply them to benefit the society
 
-* 🌍  I'm based in Saudi Arabia
+* 🌍  Based in Saudi Arabia
+* 🧠  Currently learning backend development
 * ✉️  You can contact me at [ali.y.alsaihati@gmail.com](mailto:ali.y.alsaihati@gmail.com)
-* 🧠  I'm learning HTML, CSS, Java Script
+
 
 ### Skills
 
