@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Ai-Powered-Ecommerce System<br>I have experience with React & Next<br>I am currently enhancing my skills in Backend development<br>My greatest achievement https://find-space-kfupm.vercel.app<br>
+I am currently working on React Native project<br>I have experience with React & Next<br>I am currently enhancing my skills in Backend development<br>My greatest achievement https://find-space-kfupm.vercel.app<br>
 
 
 ## 🌐 Socials:
